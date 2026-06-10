@@ -1,3 +1,20 @@
+# Sistema Eleitoral 2026
+
+## 📋 Sobre o Projeto
+
+O Sistema Eleitoral 2026 é um projeto desenvolvido em Python com o objetivo de simular uma eleição presidencial entre candidatos fictícios. O sistema permite o cadastro de eleitores, validação da idade mínima para votação, registro de votos, apuração automática dos resultados e armazenamento dos dados em um arquivo CSV.
+
+O projeto foi desenvolvido como atividade acadêmica do curso Técnico em Desenvolvimento de Sistemas, buscando aplicar conceitos fundamentais da linguagem Python de forma prática e interativa.
+
+## 🎯 Objetivos
+
+* Simular um processo eleitoral.
+* Aplicar conceitos de programação em Python.
+* Utilizar funções para organizar o código.
+* Trabalhar com estruturas condicionais e de repetição.
+* Realizar tratamento de erros.
+* Manipular arquivos CSV para armazenamento de dados.
+* Desenvolver habilidades de trabalho em equipe.
 
 ## ⚙️ Funcionalidades
 

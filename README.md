@@ -107,5 +107,6 @@ Cada registro contém:
 
 Durante o desenvolvimento do projeto, foram enfrentados desafios relacionados à integração do código e correção de erros. Com pesquisas, testes e orientação do professor, a equipe conseguiu concluir o sistema de forma funcional, aplicando diversos conceitos estudados ao longo do curso.
 
-Este projeto contribuiu para o aprimoramento dos conhecimentos em programação, lógica computacional, organização de código e trabalho em equipe.
+Este projeto contribuiu para o aprimoramento dos conhecimentos em programação, lógica computacional, organização de código e trabalho em equipe
+
 
